@@ -1,0 +1,16 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-09-20T21:21:26</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.1.4.0</property>
+    <property name="modified">2018-09-20T21:22:10</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="956b19" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
