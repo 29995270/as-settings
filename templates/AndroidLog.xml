@@ -1,0 +1,30 @@
+<templateSet group="AndroidLog">
+  <template name="wlogd" value="com.tencent.mobileqq.wink.edit.log.WinkQLog.d(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="WinkQLog.d(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="wlogi" value="com.tencent.mobileqq.wink.edit.log.WinkQLog.i(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="WinkQLog.i(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="wlogw" value="com.tencent.mobileqq.wink.edit.log.WinkQLog.w(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="WinkQLog.w(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="wloge" value="com.tencent.mobileqq.wink.edit.log.WinkQLog.e(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="WinkQLog.e(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
