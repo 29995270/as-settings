@@ -29,6 +29,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="alt tab" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
