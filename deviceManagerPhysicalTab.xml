@@ -8,8 +8,18 @@
             <value value="09241JEC203179" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-27T07:39:04.447531Z" />
         <name value="Google Pixel 4a" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9f51c3b2" />
+          </Key>
+        </key>
+        <name value="OPPO PDHM00" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
